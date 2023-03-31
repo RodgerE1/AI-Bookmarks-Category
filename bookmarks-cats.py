@@ -6,7 +6,7 @@ import openai
 import requests
 import json
 
-openai.api_key = "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"
+openai.api_key = "###"
 API_URL = "https://api.openai.com/v1/engines/davinci/completions"
 engine="davinci"
 headers = {
